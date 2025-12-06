@@ -1,4 +1,5 @@
-[Hashing Word Generator](https://hash-generator-zeta.vercel.app/)
+# [Hashing Word Generator](https://hash-generator-zeta.vercel.app/)
+
 
 Hello! In this project of mine, I have built this local web to continue learning and understanding JavaScript, CSS & HTML. It has two parts: 
 
